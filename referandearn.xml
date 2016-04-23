@@ -1,0 +1,12 @@
+<?xml version="1.0"?>   
+<layout version="3.0.0">   
+  <referandearn_index_index>   
+    <reference name="root">   
+      <action method="setTemplate"><template>page/1column.phtml</template></action>   
+    </reference>   
+    <reference name="content">   
+      <block type="referandearn/index" name="referandearn_index" template="referandearn/index.phtml"/>   
+    </reference>   
+  </referandearn_index_index>   
+</layout>   
+	

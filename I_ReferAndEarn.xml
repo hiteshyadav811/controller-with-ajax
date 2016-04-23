@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <I_ReferAndEarn>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>3.0.0</version>
+    </I_ReferAndEarn>
+  </modules>
+</config>
